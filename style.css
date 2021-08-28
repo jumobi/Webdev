@@ -1,0 +1,302 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.profile-image{
+    width: 386px;
+    height: 386px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    margin: 31px auto 0;
+}
+
+.name{
+    text-align: center;
+    color: #f7d7c8;
+    font: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.biography{
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    font-size: 72px;
+    color: #f7d7c8;
+   margin: 40px auto 0; 
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    margin: 31px auto 0;
+}
+
+.pp{
+    margin: 40px 240px 15px;
+    color: #999999;
+  font-size: 16px ;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.social-icons{
+    margin: 30px 400px;
+   display: flex;
+   justify-content: center;
+}
+
+.social-icons .twitter{
+    padding: 0 20px;
+}
+
+
+.about-me{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 5%;
+}
+
+#we-collab{
+    font-family: 'Merriweather', serif;
+    color: #f7d7c8;
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+#sample-headline{
+   color: white;
+   margin: 20px 105px 0px 0px;
+   font: 18px;
+   font-family: 'Roboto', sans-serif;
+   font-size: 1.125rem ;
+   line-height: 1.2;
+   margin-top: 20px;
+}
+
+#we-dwell{
+    color: #f7d7c8;
+    font-size: 1.25rem;
+    line-height: 1.4;
+    font-weight: 700;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#the-principal{
+    font-family: 'Open Sans', sans-serif;
+    color:white ;
+}
+
+.chat-now{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+    font-family:'Open Sans', sans-serif;
+    color:white ;
+    margin-top: 30px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.margin{
+    margin: 0 8%;
+}
+
+.one{
+    font-size: 50px;
+    font-weight: 900;
+    color: white;
+}
+
+.design-paragraph{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    color: #f7d7c8;
+}
+
+.view{
+    color: #f7d7c8;
+    font: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 17px;
+    margin-bottom: 100px;
+}
+.bring{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 3%;
+    margin-left: 60px;
+}   
+
+.bring-to{
+    color: #f7d7c8;
+    font: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.2;
+    margin-bottom: 2px;
+}
+
+#living{
+    font-family:'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
+
+#living-two{
+    font-family:'Open Sans', sans-serif;
+    font-size: 18px;
+    color: white;
+    margin: 20px 0px 0px;
+}
+
+#we-are{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    color: #f7d7c8;
+    font-size: 3rem;
+    font-weight: 700;
+   text-align: center;
+}
+
+#phone{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    font-size: 23px;
+}
+
+#location{
+    text-align: center;
+    color: #f7d7c8;
+    font: 20px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+#address{
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+#sample{
+    text-align: center;
+    font-family:'Open Sans', sans-serif;
+    font-size: 16px;
+    color: white;
+    margin-left: 12px;
+    margin-top: 30px;
+}
+
+
+#line{
+    margin: 0 42%;
+    width: 198px;
+    height: 10px;
+    border-color: #f7d7c8;
+    border-style: solid;
+    background: #f7d7c8;
+    margin-top: 30px;
+}
+
+
+H4{
+    color:#f7d7c8;  
+}
+
+
+.learn-more{
+text-align: center;
+padding: 20px;
+border: solid #f7d7c8;     
+border-width: 2px;
+width: 150px;
+}
+
+.learn{
+    display: flex;
+    justify-content: center;
+}
+
+.project1{
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    margin-bottom: 34px;
+}
+
+.project2{
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    margin-bottom:40px;
+    padding-right: 40px;
+    padding-left: 35px;
+}
+
+.project3{
+    width: 300px;
+    margin-bottom: 34px;
+    height: 300px;
+    border-radius: 25%;
+}
+
+.project4{
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    margin-bottom: 34px;
+}
+
+.project5{
+    width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    padding-right: 40px;
+    padding-left: 40px;
+    margin-bottom: 34px;
+}
+
+.project6{
+     width: 300px;
+    height: 300px;
+    border-radius: 25%;
+    margin-bottom: 34px;
+}
+
+.profile2{
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    margin-left: 550px;
+}
+  
+.number{
+display: flex;
+justify-content: center;
+gap: 1%;
+}
+
+.project-workone{
+    display: flex; 
+    justify-content: center;
+    margin-bottom: 34px;
+    gap: 3%;
+}
+
+.project-worktwo{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 34px;
+    margin-top: 10px;
+    gap: 3%;
+}
